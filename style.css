@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+.masonry { 
+    display: flex;
+    margin-top: 30px;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+
+img {
+    display: flex;
+    width: 100%;
+    object-fit: cover;
+    margin-top: 8px;
+    padding: 0 4px;
+    border-radius: 10px;
+}
